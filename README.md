@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mukulsinghal1410
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning DSA,java,MERN Stack.
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning VAPT, DevSecOps, Threat modeling, Architecture Review
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
